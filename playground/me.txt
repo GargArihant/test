@@ -1,5 +1,0 @@
-{{#user}}
-Name: Arihant Garg
-Skills: HTML, CSS, JS, react.js, Node.js, Express, MongoDb
-Email: arihantgarg2002@gmail.com
-{{/user}}
